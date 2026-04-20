@@ -12,7 +12,7 @@ body {
     font-size: 18px;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 10%;
+    padding-left: 5%;
     padding-right: 10%;
     margin-bottom: 15px;
 }
@@ -48,9 +48,18 @@ h3 {
     text-align: left
 }
 
-p {
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+    font-size: 40px;
+    text-align: left;
+}
+
+p
+ {
     font-size: 20px;
 }
+
 
 .otherimg {
     max-width: 50rem;
@@ -62,4 +71,12 @@ p {
 
 li {
     text-align: left;
+}
+
+a {
+    color: rgb(64, 8, 101);
+}
+
+.navlink {
+    color: white;
 }
